@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893288452883",
+    "project_id": "traces-school-bus",
+    "storage_bucket": "traces-school-bus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893288452883:android:1d36b09b84d3f0bfb6c0e6",
+        "android_client_info": {
+          "package_name": "com.example.traces_school_bus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_I5ZLCCrA5Y6p2UF05qv9PQeaRwMpkE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

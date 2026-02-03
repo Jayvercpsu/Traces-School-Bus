@@ -1,0 +1,39 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "traces-school-bus",
+          "appId": "1:893288452883:android:1d36b09b84d3f0bfb6c0e6",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "traces-school-bus",
+          "configurations": {
+            "android": "1:893288452883:android:1d36b09b84d3f0bfb6c0e6",
+            "ios": "1:893288452883:ios:e3c5bb2d07ef0d39b6c0e6",
+            "macos": "1:893288452883:ios:e3c5bb2d07ef0d39b6c0e6",
+            "web": "1:893288452883:web:a4ae0ae943df94abb6c0e6",
+            "windows": "1:893288452883:web:f3f45acc15ba3a4cb6c0e6"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ]
+    }
+  ]
+}
